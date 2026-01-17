@@ -1,20 +1,16 @@
-# Eduwel GitHub Organization
+# Eduwel GitHub-organisatie
 
-Welcome to the GitHub organization for [Eduwel](https://www.eduwel.nl/)! 🎓
+Welkom bij de GitHub-organisatie van [Eduwel](https://www.eduwel.nl/)! 🎓
 
-## About
+## Over Eduwel
 
-This organization contains the code repositories that power the Eduwel platform - an education and welfare initiative.
+Deze organisatie bevat de repositories die Eduwel aandrijven - een initiatief op het gebied van educatie en welzijn.
 
 ## Repositories
 
-- **website**: The main Eduwel website
-- **website-proxy**: Proxy API that handles communication between the website and Logic Apps for processing registration form emails
+* **website**: De hoofdwebsite van Eduwel
+* **website-proxy**: Proxy-API die de communicatie verzorgt tussen de website en Logic Apps voor het verwerken van e-mails afkomstig van aanmeld- en registratieformulieren
 
-## Developer
+## Ontwikkelaar
 
-Maintained by Kevin van Dijk.
-
----
-
-*Making education and welfare accessible through technology.*
+Onderhouden door Kevin van Dijk.
