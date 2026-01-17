@@ -8,8 +8,8 @@ This organization contains the code repositories that power the Eduwel platform 
 
 ## Repositories
 
-- **eduwel-website**: The main Eduwel website
-- **eduwel-proxy-api**: Proxy API that handles communication between the website and Logic Apps for processing registration form emails
+- **website**: The main Eduwel website
+- **website-proxy**: Proxy API that handles communication between the website and Logic Apps for processing registration form emails
 
 ## Developer
 
